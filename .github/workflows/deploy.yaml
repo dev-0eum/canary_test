@@ -2,7 +2,7 @@ name: CI/CD Canary Deployment
 
 on:
   push:
-    brnaches: ["main"]
+    branches: ["main"]
 
 jobs:
   canary-deploy:
