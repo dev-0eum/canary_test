@@ -6,7 +6,6 @@ on:
 
 jobs:
   canary-deploy:
-    # My local runner
     runs-on: self-hosted
 		
     steps:
